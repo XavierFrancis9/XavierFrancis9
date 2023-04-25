@@ -1,5 +1,5 @@
 # 🙋🏼‍♂️ About Me:
-I am a passionate full-stack developer and Marine Corps veteran with expertise in both front-end and back-end technologies, committed to delivering innovative software solutions.
+I am a passionate full-stack developer and Marine Corps veteran with expertise in both front-end and back-end technologies, committed to delivering innovative software solutions
 
 
 ## 🌐 Socials:
