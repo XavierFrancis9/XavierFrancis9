@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **james.x.francis9@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1B6aSfzHsFv8XO3aoUrBrMqr9cEqDlYsVJLBPzfrCI8A/edit?usp=sharing](https://docs.google.com/document/d/1B6aSfzHsFv8XO3aoUrBrMqr9cEqDlYsVJLBPzfrCI8A/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/j-xavier-francis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/j-xavier-francis/" height="30" width="40" /></a>
